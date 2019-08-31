@@ -1,1 +1,1 @@
-class creature:
+class creature:ADASDASASDAS
